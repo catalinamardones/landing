@@ -1,0 +1,96 @@
+body {
+	margin: 0px;
+	font-family: 'Rum Raisin', sans-serif;
+	font-size: 19px;
+
+	background-image: url(https://i.pinimg.com/originals/6a/83/d0/6a83d08a7a36d2ec7ba8f5ca2bdebb3b.jpg);
+}
+
+            
+            /*   SECCION 1 */
+
+ul {
+	text-align: center;
+    padding:0px;
+}
+
+#navbar {
+	width: 100%;
+	/*padding: 7px;*/
+	padding-top: 2px;
+	background-color: #8C8481;
+    padding-bottom: 3px;
+			
+}
+#primeraparte {
+	height: 768px;
+	background-image: url(https://www.gochile.cl/fotos/full/43177-pn-huerquehue-chris_c_m@2x.jpg);
+	/*(https://www.lametayel.co.il/limages/d5f077546fadd6b29fad1a1a90ab2f72.jpg?l=660x371&m=495x278&s=350x197&type=ar?&size=1920x1080);
+    */
+}
+#elementos {
+	display: inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 21px;
+    font-family: 'Luckiest Guy', cursive;
+}
+#texto1 {
+	    float: right;
+    width: 585px;
+    text-align: center;
+    margin-right: 20px;
+    font-family: 'Rum Raisin', sans-serif;
+    color: 2px solid red;
+}
+h1 {
+	color: #94B842;
+	font-family: 'Chicle', cursive;
+}
+
+                   
+                 /*   SECTION DOS   */
+
+#segundaparte {
+	display: inline-block;
+    margin-left: 11%;
+    margin-top: 10%;
+
+}
+.sector {
+    width: 30%;
+    text-align: center;
+    padding: 17px;
+    display: inline-block;
+    margin-right: -2%;
+}
+
+.fotos_redondas {
+    width: 300px;
+    height: 250px;
+    border-radius: 48%;
+}
+
+
+
+
+/*   SECTION TRES  */
+#formulario {
+	border: 1px solid black;
+    padding-right: 100px;
+    padding-left: 20px;
+}
+#terceraparte {
+	display: inline-flex;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 85px;
+}
+#mapa {
+	margin-left: 2%;
+    margin-right: 7%;
+    border: 1px solid black;
+}
+footer {
+	text-align: center;
+}
