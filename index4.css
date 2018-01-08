@@ -24,7 +24,7 @@ ul {
 }
 #primeraparte {
     height: 768px;
-    background-image: url("http://www.conservacionybiodiversidad.cl/wp-content/uploads/2017/06/araucaria-y-bruma.jpg");
+    background-image: url("img/fotolaguna.jpg");
     background-size: cover;
 }
 #elementos {
@@ -51,7 +51,7 @@ h1 {
 #segundaparte {
     display: inline-block;
     margin-top: 10%;
-    background-image: url("img/fotolaguna.jpg");
+    background-image: url("");
 
 }
 .sector {
