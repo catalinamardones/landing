@@ -7,7 +7,7 @@ body {
 }
 
             
-            /*   SECCION 1 */
+                       /*   SECCION 1 */
 
 ul {
     text-align: center;
@@ -25,28 +25,52 @@ ul {
 #primeraparte {
     height: 768px;
     background-image: url("img/fotolaguna.jpg");
+    /*filter: grayscale(50%);----------------------- Se utiliza para agregar opacidad a una imagen*/
     background-size: cover;
 }
 #elementos {
     display: inline-block;
     margin-left: 5%;
     margin-right: 5%;
-    font-size: 21px;
+    font-size: 23px;
+    color: white;
 }
 #texto1 {
     text-align: center;
 }
 
 h1 {
-    color: black;
-    margin-left: 27%;
-    margin-top: 17%;
+    color: white;
+    margin-left: 9%;
+    margin-top: 10%;
     display: inline-block;
     font-size: 70px;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 351px;
+    height: 215px;
+    padding-top: 12px;
+       }
+
+h2 {
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #F51A08;
+    width: 415px;
+    height: 47px;
+    margin-left: 137px;
+    margin-top: -31px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 31px;
+
 }
 
+
                    
-                 /*   SECTION DOS   */
+          
+                       /*   SECTION DOS   */
 
 #segundaparte {
     display: inline-block;
@@ -71,7 +95,7 @@ h1 {
 
 
 
-/*   SECTION TRES  */
+                          /*   SECTION TRES  */
 #formulario {
     border: 1px solid black;
     padding-right: 100px;
